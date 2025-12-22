@@ -1,0 +1,24 @@
+
+JSON Format of Create campaign http://localhost:5000/api/campaigns
+
+{
+  "name": "DS Course Promotion",
+  "type": "email",
+  "prompt": "Promote our Data Science course to final year students. Mention placement support and early bird discount.",
+  "meta": {
+    "brand": {
+      "company_name": "Zypheron",
+      "sender_name": "Alice – Head of Admissions",
+      "website": "https://www.zypheron.tech"
+    },
+    "to_email":"kousikmaiti19@gmail.com",
+    "tone": "professional",
+    "cta": "Enroll Now"
+  }
+}
+
+JSON Format of run campaign http://localhost:5000/api/campaigns/:campaign_id/run
+
+{
+  "execute": true
+}
