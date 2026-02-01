@@ -1,18 +1,14 @@
 <div align="center">
   <br />
-    <a href="#" target="_blank">
-      <img src="public/readme/hero.webp" alt="AutoEmailSystem Banner">
-    </a>
   <br />
 
+  <h3 align="center">AutoEmailSystem</h3>
   <div>
     <img src="https://img.shields.io/badge/React-4c84f3?style=for-the-badge&logo=react&logoColor=white">
     <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
     <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white">
     <img src="https://img.shields.io/badge/Python-AI-3776AB?style=for-the-badge&logo=python&logoColor=white">
   </div>
-
-  <h3 align="center">AutoEmailSystem</h3>
 
   <div align="center">
     Agentic AI-powered email campaign automation platform
